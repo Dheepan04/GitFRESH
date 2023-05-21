@@ -1,2 +1,3 @@
 # GitFRESH
-To learn
+i First
+ii clone pannanum
